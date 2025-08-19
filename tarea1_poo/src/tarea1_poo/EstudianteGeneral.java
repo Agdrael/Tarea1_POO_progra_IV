@@ -8,6 +8,7 @@ package tarea1_poo;
  *
  * @author 1720972023
  */
-public class EstudianteGeneral {
-    
+/*jairo : haciendo que EstudianteGeneral herede de Estudiante*/
+public class EstudianteGeneral extends Estudiante {
+
 }
