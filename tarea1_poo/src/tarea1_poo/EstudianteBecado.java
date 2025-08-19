@@ -8,6 +8,9 @@ package tarea1_poo;
  *
  * @author 1720972023
  */
-public class EstudianteBecado {
+/*heredando de Estudiante  */
+public class EstudianteBecado extends Estudiante {
+    /*declarando propiedad porcentaje beca*/
+    public double porcentajeBeca;
     
 }
