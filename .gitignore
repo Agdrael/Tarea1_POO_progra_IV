@@ -1,0 +1,4 @@
+#ignorando carpetas que generan problemsa a futuro
+tarea1_poo/nbproject/private/
+tarea1_poo/build/
+tarea1_poo/dist/
